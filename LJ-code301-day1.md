@@ -1,5 +1,5 @@
-# LJ Code 301 - Day 1
+# LJ Code 301 - Day 3
 
-Day 1:
+Day 3:
 
-Crammed for time to get assignment completed before lecture at 2. First hour filled by course intro and presentation by Brandy. I didn't get to the code wars challenge. I think once the setup and getting used to more requirements for working in the terminla everything will go a bit quicker.
+Pair programming...ya. I'm on the fence right now about it. The success of it definitely lies in the partner. Small screen - hard to see - hard to navigate. If Driver = super fast typer, will drive without consideration of navigator = leads to ignoring navigator. Work gets done, but not for the benefit of both.
